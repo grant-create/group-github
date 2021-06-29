@@ -13,7 +13,7 @@ import './App.css';
 export default function App() {
   return (
     <div className="App">
-
+      <h1>Check out the team!</h1>
       <Grant/>
 
       <Becky />

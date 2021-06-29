@@ -6,6 +6,9 @@ export default function Brian() {
             <p>
                 This is some text about me and maybe a picture ...
             </p>
+            <p>
+                <img src="../public/brianAnimal.jpg" />
+            </p>
         </div>
     )
 }
