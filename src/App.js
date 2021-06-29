@@ -1,3 +1,7 @@
+
+
+import './Becky'
+
 import {
   BrowserRouter as Router,
   Route,
@@ -6,9 +10,12 @@ import {
 import './App.css';
 import Shawn from './components/Shawn.jsx'
 
+
 export default function App() {
   return (
     <div className="App">
+
+      <Becky />
 
     </div>
   )
