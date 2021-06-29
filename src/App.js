@@ -15,11 +15,11 @@ export default function App() {
     <div className="App">
       <h1>Check out the team!</h1>
       <Grant/>
-
+        <hr />
       <Becky />
-
+        <hr />
       <Brian />
-
+        <hr />
       <Shawn />
 
     </div>
