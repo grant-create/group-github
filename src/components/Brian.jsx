@@ -1,10 +1,14 @@
+
+import '../App.css'
+
+
 export default function Brian() {
     return (
-        <div>
+        <div className="brian">
             <h1>Brian's Page</h1>
 
             <p>
-                <img src="../brianAnimal.jpg" />
+                <img src="../brianAnimal.jpg" style={{width: '500px'}} />
             </p>
 
             <p>
