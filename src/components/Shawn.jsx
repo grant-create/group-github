@@ -1,5 +1,6 @@
 export default function Shawn() {
-    return{
-        
-    }
+    return(
+        <div>
+        </div>
+    )
 }
