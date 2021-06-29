@@ -15,11 +15,11 @@ export default function App() {
     <div className="App">
 
       <Grant/>
-
+        <hr />
       <Becky />
-
+        <hr />
       <Brian />
-
+        <hr />
       <Shawn />
 
     </div>
