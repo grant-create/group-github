@@ -2,4 +2,8 @@ Welcome, Group!
 
 Brian here ...
 
-Grant here ...
+
+Becky has arrived!
+
+Grant here!
+
