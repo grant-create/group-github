@@ -11,7 +11,7 @@ export default function Brian() {
             <p>
                 This is some text about me and maybe a picture ...
             </p>
-            
+
         </div>
     )
 }
