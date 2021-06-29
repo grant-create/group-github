@@ -12,14 +12,19 @@ import {
 import './App.css';
 
 
+
 export default function App() {
   return (
     <div className="App">
 
       <Grant/>
 
-
       <Becky />
+
+      <Brian />
+
+      <Shawn />
+
 
 
     </div>
